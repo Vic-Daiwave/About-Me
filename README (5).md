@@ -1,6 +1,6 @@
 # 🎧 Victor Fonseca — Notes & Numbers
 
-Welcome to my personal GitHub repository. I'm Victor Fonseca, a finance professional with solid experience in **Accounts Payable (AP), General Ledger (GL), and Controlling**, now transitioning into **Data Science** with a focus on the **music industry**.
+Welcome to my personal GitHub repository. I'm Victor Fonseca, a finance professional with solid experience in **Accounts Payable (AP), General Ledger (GL), and Controlling**, now transitioning into Data Science, with a strong interest in applying it to the music industry and beyond.
 
 This space reflects my dual identity: a structured thinker with analytical precision, and an artist driven by emotion and sound.
 
@@ -21,16 +21,6 @@ This space reflects my dual identity: a structured thinker with analytical preci
 - **Dashboard Development:** Power BI dashboards for financial and musical analysis
 - **Data Modeling:** Building relationships and measures using DAX
 - **SQL Practice:** Querying structured data for insights and automation
-- **Portfolio:** [Deftones Discography Dashboard](https://github.com/Vic-Daiwave/deftones-discography-dashboard)
-
----
-
-## 🎵 Artistic Identity — Daiwave
-
-- **Genres:** Atmospheric Rock, Ambient Metal, Experimental
-- **Influences:** Deftones, Team Sleep, Crosses, Turnstile
-- **Creative Projects:** Composing songs like *Espuma de sombras* and *Furia en cámara lenta*
-- **Hobbies:** Drums, Guitar, Cinema, Collecting figures
 
 ---
 
